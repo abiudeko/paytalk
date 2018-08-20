@@ -6,5 +6,4 @@ Mpesa integration platform, paytalk.co.ke, an alternative way to view your mpesa
     You will be able to send bulksms to your clients at only 90cents per sms.
     You can set personal mobile number(s) to receive the mpesa transactions.
     You can set to receive sms of total amount accrued daily, weekly or monthly.
-    You can set a thank you message that your customers will receive whenever they pay using your paybill/till number.
-    
+    You can set a thank you message that your customers will receive when they pay using your paybill/till number.
