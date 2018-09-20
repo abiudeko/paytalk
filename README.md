@@ -1,5 +1,5 @@
 # paytalk
-Mpesa integration platform, paytalk.co.ke, an alternative way to view your mpesa transactions and download the transactions as per your defined timeframe. With this application;
+Mpesa integration platform, paytalk.co.ke, an alternative way to view your lipa na mpesa transactions and download the transactions as per your defined timeframe. With this application;
 
     You will be able to receive real-time transactions when your customers pay.
     You will be able to download excel or pdf statement of the transactions.
